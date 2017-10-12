@@ -1,0 +1,17 @@
+div{
+    width: 500px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+div > h2 {
+    font-size: 35px;
+}
+
+div > p {
+    font-size: 32px;
+}
+
+button{
+    font-size: 32px;
+}
